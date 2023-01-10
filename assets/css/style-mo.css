@@ -14,17 +14,17 @@
     display: none;
   }
   body {
-  min-height: 100vh;
-  min-height: -webkit-fill-available;
-}
-html {
-  height: -webkit-fill-available;
-}
+    min-height: 80vh;
+    min-height: -webkit-fill-available;
+  }
+  html {
+    height: -webkit-fill-available;
+  }
 
   #hero-mh-m {
     width: 100%;
     height: 100vh;
-    background: url("../img/moh-2.png") top right no-repeat;
+    background: url("../img/moh-2.png") top no-repeat;
     background-size: cover;
     position: relative;
     text-align: center;
